@@ -1,0 +1,14 @@
+{
+    "ABCD12": {
+        "bencina": "40 litros",
+        "kilometraje": "120000"
+    },
+    "ZXCV98": {
+        "bencina": "20 litros",
+        "kilometraje": "85000"
+    },
+    "QWER34": {
+        "bencina": "30 litros",
+        "kilometraje": "60000"
+    }
+}
